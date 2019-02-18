@@ -1,0 +1,6 @@
+EVENT IDS:
+----------
++ 0 : KEYPRESS
++ 1 : KEYRELEASE
++ 2 : ANIM BEGIN
++ 3 : ANIM END

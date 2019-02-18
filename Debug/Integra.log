@@ -1,0 +1,13 @@
+﻿  Main.cpp
+d:\integraengine\integra\integra\componentmanager.h(59): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\integraengine\integra\integra\componentmanager.h(60): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\integraengine\integra\integra\componentmanager.h(64): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+d:\integraengine\integra\integra\componentmanager.h(65): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+d:\integraengine\integra\integra\componentmanager.h(93): warning C4018: '<': signed/unsigned mismatch
+d:\integraengine\integra\integra\componentmanager.h(102): warning C4018: '<': signed/unsigned mismatch
+d:\integraengine\integra\integra\scene.h(8): warning C4099: 'InputHandler': type name first seen using 'struct' now seen using 'class'
+  d:\integraengine\integra\integra\inputhandler.h(5): note: see declaration of 'InputHandler'
+d:\integraengine\integra\integra\scene.h(9): warning C4099: 'TransformComponent': type name first seen using 'struct' now seen using 'class'
+  d:\integraengine\integra\integra\componentmanager.h(43): note: see declaration of 'TransformComponent'
+d:\integraengine\integra\integra\ecs.h(57): warning C4018: '<': signed/unsigned mismatch
+  Integra.vcxproj -> D:\IntegraEngine\Integra\Debug\Integra.exe
